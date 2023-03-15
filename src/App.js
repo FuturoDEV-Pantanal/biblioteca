@@ -107,7 +107,7 @@ function App() {
   const incluirEmprestimo = (cpf, isbn) => {
     const livro = livros.find(l => l.isbn === isbn);
     const leitor = leitores.find(l => l.cpf === cpf);
-    const novo = {
+    const novo =  {
       id: Math.floor(Math.random() * 999999),
       isbnLivro: livro.isbn,
       cpfLeitor: leitor.cpf,
