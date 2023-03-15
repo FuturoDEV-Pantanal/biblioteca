@@ -1,0 +1,49 @@
+.listagem-container {
+    text-align: center;
+    margin: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-listagem {
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+/* .texto-mensagem {
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    margin: 10px;
+} */
+
+.tabela-titulo {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+table {
+    margin: 20px 0px;
+}
+
+table, th, td {
+    border: 1px solid #A7727D;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table button {
+    margin: 0px 5px;
+    padding: 5px;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}

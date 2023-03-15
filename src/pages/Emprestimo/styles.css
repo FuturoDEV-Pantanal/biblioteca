@@ -1,0 +1,33 @@
+.emprestimo-container {
+    flex: 1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.titulo-cadastro {
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin: 30px 0px;
+}
+
+.form-grupo {
+    margin: 20px 0px;
+}
+
+.form-grupo label {
+    margin-right: 5px;
+}
+
+.btn-submit, .btn-voltar {
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+}
+
+.btn-voltar a {
+    text-decoration: none;
+}

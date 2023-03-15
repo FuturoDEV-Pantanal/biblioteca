@@ -1,0 +1,12 @@
+{
+    "livros":  [
+        { "isbn": "978-0548952610", "titulo": "Princípios Matemáticos de Filosofia Natural", "autores": "Isaac Newton", "disponivel": true },
+        { "isbn": "978-8599296578", "titulo": "O Guia do Mochileiro das Galáxias", "autores": "Douglas Adams", "disponivel": true },
+        { "isbn": "978-8576082675", "titulo": "Clean Code", "autores": "Robert C. Martin", "disponivel": true }
+    ],
+    "leitores": [
+        { "cpf": 12345678901, "nome": "Ozzy Osbourne", "dataNascimento": "1900-10-31", "emprestimosAtivos": 0 },
+        { "cpf": 98765432111, "nome": "Bruce Dickinson", "dataNascimento": "1950-02-15", "emprestimosAtivos": 0 },
+        { "cpf": 67890123456, "nome": "Tom Araya", "dataNascimento": "1980-12-30", "emprestimosAtivos": 0 }
+    ] 
+}
